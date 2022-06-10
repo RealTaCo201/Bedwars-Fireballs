@@ -1,0 +1,2 @@
+function fb:countfirecharge
+function fb:givefireball
